@@ -23,3 +23,6 @@ print(f"Search is done and result text is : {result.text}")
 print("closing the browser after test")
 driver.quit()
 print("Test completed!")
+
+
+print("testing git commit/push")
